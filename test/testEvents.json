@@ -1,0 +1,3430 @@
+{
+  "events": [
+    {
+      "id": 5851844395401216,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-17T18:00:58.960Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-17T11:00:58.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "SYSTEM",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-17T11:00:58.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "joined",
+          "answer": "false"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        }
+      ]
+    },
+    {
+      "id": 4662932687814656,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-19T17:01:28.567Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-19T10:01:26.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-19T10:01:26.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-183.5912.21"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_ACTION"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "true"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/Documents/projects/testpluginflutterapp/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "element",
+          "answer": "no element"
+        },
+        {
+          "name": "action_label",
+          "answer": "Save All (Save all files and settings)"
+        },
+        {
+          "name": "place",
+          "answer": "MainMenu"
+        },
+        {
+          "name": "action_class",
+          "answer": "com.intellij.ide.actions.SaveAllAction"
+        }
+      ]
+    },
+    {
+      "id": 4707348572012544,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:14:02.019Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:13:59.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:13:59.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DIFF"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "project",
+          "answer": "my_test_flutter"
+        },
+        {
+          "name": "project_dir",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter"
+        },
+        {
+          "name": "diff",
+          "answer": "SW5kZXg6IC9Vc2Vycy9ib2JldmFucy9JZGVhUHJvamVjdHMvbXlfdGVzdF9mbHV0dGVyL2xpYi9tYWluLmRhcnQKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQotLS0gL1VzZXJzL2JvYmV2YW5zL0lkZWFQcm9qZWN0cy9teV90ZXN0X2ZsdXR0ZXIvbGliL21haW4uZGFydAkoZGF0ZSAxNTY0MDk2NDM1MDAwKQorKysgL1VzZXJzL2JvYmV2YW5zL0lkZWFQcm9qZWN0cy9teV90ZXN0X2ZsdXR0ZXIvbGliL21haW4uZGFydAkoZGF0ZSAxNTY0MDk2NDM1MDAwKQpAQCAtMTMsNyArMTMsNyBAQAogICBAb3ZlcnJpZGUKICAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICAgcmV0dXJuIG5ldyBNYXRlcmlhbEFwcCgKLSAgICAgIHRpdGxlOiAnRmx1dHRlciBEZW1vIDEyJywKKyAgICAgIHRpdGxlOiAnRmx1dHRlciBEZW1vIDE0JywKICAgICAgIHRoZW1lOiBuZXcgVGhlbWVEYXRhKAogICAgICAgICAvLyBUaGlzIGlzIHRoZSB0aGVtZSBvZiB5b3VyIGFwcGxpY2F0aW9uLgogICAgICAgICAvLwo="
+        },
+        {
+          "name": "diff_file",
+          "answer": "/var/folders/yv/nxr31yrj5v1bzy85dhvd_bk80000gn/T/1564096439119-0/patch2019_07_25_16:13:59-0700.patch"
+        }
+      ]
+    },
+    {
+      "id": 4747377667211264,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:31:59.067Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:31:51.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:31:51.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_OPENED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        }
+      ]
+    },
+    {
+      "id": 4757053045735424,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:40:06.813Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:40:00.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:40:00.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_FOCUSED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        }
+      ]
+    },
+    {
+      "id": 4781983988711424,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:48:04.589Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:47:56.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:47:56.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DIFF"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "project",
+          "answer": "my_test_flutter"
+        },
+        {
+          "name": "project_dir",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter"
+        },
+        {
+          "name": "diff",
+          "answer": "SW5kZXg6IC9Vc2Vycy9ib2JldmFucy9JZGVhUHJvamVjdHMvbXlfdGVzdF9mbHV0dGVyL2xpYi9tYWluLmRhcnQKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQotLS0gL1VzZXJzL2JvYmV2YW5zL0lkZWFQcm9qZWN0cy9teV90ZXN0X2ZsdXR0ZXIvbGliL21haW4uZGFydAkoZGF0ZSAxNTY0MDk0ODczMDAwKQorKysgL1VzZXJzL2JvYmV2YW5zL0lkZWFQcm9qZWN0cy9teV90ZXN0X2ZsdXR0ZXIvbGliL21haW4uZGFydAkoZGF0ZSAxNTY0MDk0ODczMDAwKQpAQCAtMTMsNyArMTMsNyBAQAogICBAb3ZlcnJpZGUKICAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICAgcmV0dXJuIG5ldyBNYXRlcmlhbEFwcCgKLSAgICAgIHRpdGxlOiAnRmx1dHRlciBEZW1vIDknLAorICAgICAgdGl0bGU6ICdGbHV0dGVyIERlbW8gMTEnLAogICAgICAgdGhlbWU6IG5ldyBUaGVtZURhdGEoCiAgICAgICAgIC8vIFRoaXMgaXMgdGhlIHRoZW1lIG9mIHlvdXIgYXBwbGljYXRpb24uCiAgICAgICAgIC8vCg=="
+        },
+        {
+          "name": "diff_file",
+          "answer": "/var/folders/yv/nxr31yrj5v1bzy85dhvd_bk80000gn/T/1564094876328-0/patch2019_07_25_15:47:56-0700.patch"
+        }
+      ]
+    },
+    {
+      "id": 4929320828534784,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:14:00.816Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:13:55.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:13:55.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_ACTION"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "element",
+          "answer": "no element"
+        },
+        {
+          "name": "action_label",
+          "answer": "Save All (Save all files and settings)"
+        },
+        {
+          "name": "place",
+          "answer": "MainMenu"
+        },
+        {
+          "name": "action_class",
+          "answer": "com.intellij.ide.actions.SaveAllAction"
+        }
+      ]
+    },
+    {
+      "id": 5002981665144832,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:12:11.610Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:12:03.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:12:03.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DIFF"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "project",
+          "answer": "my_test_flutter"
+        },
+        {
+          "name": "project_dir",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter"
+        },
+        {
+          "name": "diff",
+          "answer": "SW5kZXg6IC9Vc2Vycy9ib2JldmFucy9JZGVhUHJvamVjdHMvbXlfdGVzdF9mbHV0dGVyL2xpYi9tYWluLmRhcnQKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQotLS0gL1VzZXJzL2JvYmV2YW5zL0lkZWFQcm9qZWN0cy9teV90ZXN0X2ZsdXR0ZXIvbGliL21haW4uZGFydAkoZGF0ZSAxNTY0MDk2MzE5MDAwKQorKysgL1VzZXJzL2JvYmV2YW5zL0lkZWFQcm9qZWN0cy9teV90ZXN0X2ZsdXR0ZXIvbGliL21haW4uZGFydAkoZGF0ZSAxNTY0MDk2MzE5MDAwKQpAQCAtMTMsNyArMTMsNyBAQAogICBAb3ZlcnJpZGUKICAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICAgcmV0dXJuIG5ldyBNYXRlcmlhbEFwcCgKLSAgICAgIHRpdGxlOiAnRmx1dHRlciBEZW1vIDEwJywKKyAgICAgIHRpdGxlOiAnRmx1dHRlciBEZW1vIDEyJywKICAgICAgIHRoZW1lOiBuZXcgVGhlbWVEYXRhKAogICAgICAgICAvLyBUaGlzIGlzIHRoZSB0aGVtZSBvZiB5b3VyIGFwcGxpY2F0aW9uLgogICAgICAgICAvLwo="
+        },
+        {
+          "name": "diff_file",
+          "answer": "/var/folders/yv/nxr31yrj5v1bzy85dhvd_bk80000gn/T/1564096323001-0/patch2019_07_25_16:12:03-0700.patch"
+        }
+      ]
+    },
+    {
+      "id": 5042200353701888,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:40:04.425Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:39:54.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:39:54.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_STARTED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        }
+      ]
+    },
+    {
+      "id": 5132628541308928,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:12:12.664Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:12:03.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:12:03.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "LAUNCH"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "project",
+          "answer": "my_test_flutter"
+        },
+        {
+          "name": "run_configuration_type",
+          "answer": "Flutter"
+        },
+        {
+          "name": "run_configuration_action",
+          "answer": "Run"
+        },
+        {
+          "name": "run_configuration_name",
+          "answer": "main.dart"
+        },
+        {
+          "name": "device_emulator",
+          "answer": "true"
+        },
+        {
+          "name": "device_platform",
+          "answer": "ios"
+        },
+        {
+          "name": "device_name",
+          "answer": "iPhone Xʀ"
+        }
+      ]
+    },
+    {
+      "id": 5136045665943552,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-19T17:00:49.999Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-19T09:57:59.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-19T09:57:59.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-183.5912.21"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_ACTION"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "true"
+        },
+        {
+          "name": "element"
+        },
+        {
+          "name": "action_label",
+          "answer": "Open iOS Simulator (null)"
+        },
+        {
+          "name": "place",
+          "answer": "unknown"
+        },
+        {
+          "name": "action_class",
+          "answer": "io.flutter.actions.OpenSimulatorAction"
+        }
+      ]
+    },
+    {
+      "id": 5151576460623872,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:13:10.816Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:13:02.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:13:02.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_ACTION"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "element",
+          "answer": "no element"
+        },
+        {
+          "name": "action_label",
+          "answer": "Save All (Save all files and settings)"
+        },
+        {
+          "name": "place",
+          "answer": "MainMenu"
+        },
+        {
+          "name": "action_class",
+          "answer": "com.intellij.ide.actions.SaveAllAction"
+        }
+      ]
+    },
+    {
+      "id": 5156288979271680,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:47:54.871Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:47:53.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:47:53.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_SAVED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "error_0",
+          "answer": "type=Not Error, sev=INFO, code=slash_for_doc_comments, offset = 84, message=Prefer using /// for doc comments."
+        },
+        {
+          "name": "errors",
+          "answer": "1"
+        }
+      ]
+    },
+    {
+      "id": 5167100510863360,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-20T07:09:16.247Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-20T00:08:18.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-20T00:08:18.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-191.7479.19"
+        },
+        {
+          "name": "type",
+          "answer": "PROJECT_OPENED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "true"
+        },
+        {
+          "name": "project",
+          "answer": "testpluginflutterapp"
+        }
+      ]
+    },
+    {
+      "id": 5196075903746048,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-20T07:09:18.516Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-20T00:08:34.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-20T00:08:34.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-191.7479.19"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_ACTION"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "true"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/Documents/projects/testpluginflutterapp/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "element",
+          "answer": "no element"
+        },
+        {
+          "name": "action_label",
+          "answer": "Show Log in File Manager (Opens folder with log file)"
+        },
+        {
+          "name": "place",
+          "answer": "MainMenu"
+        },
+        {
+          "name": "action_class",
+          "answer": "com.intellij.ide.actions.ShowLogAction"
+        }
+      ]
+    },
+    {
+      "id": 5206759676837888,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:12:01.436Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:11:59.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:11:59.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_SAVED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "error_0",
+          "answer": "type=Not Error, sev=INFO, code=slash_for_doc_comments, offset = 84, message=Prefer using /// for doc comments."
+        },
+        {
+          "name": "errors",
+          "answer": "1"
+        }
+      ]
+    },
+    {
+      "id": 5233834882236416,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:14:01.182Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:13:55.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:13:55.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_SAVED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "error_0",
+          "answer": "type=Not Error, sev=INFO, code=slash_for_doc_comments, offset = 84, message=Prefer using /// for doc comments."
+        },
+        {
+          "name": "errors",
+          "answer": "1"
+        }
+      ]
+    },
+    {
+      "id": 5278239836078080,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-20T07:09:15.469Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-20T00:08:15.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-20T00:08:15.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-191.7479.19"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_STARTED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "true"
+        }
+      ]
+    },
+    {
+      "id": 5371109486100480,
+      "experimentId": 1,
+      "who": "90",
+      "when": "2019-07-25T19:03:44.481Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T12:03:39.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T12:03:39.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_FOCUSED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        }
+      ]
+    },
+    {
+      "id": 5381736376041472,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:09:31.422Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:09:21.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:09:21.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_STARTED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        }
+      ]
+    },
+    {
+      "id": 5449287890108416,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:32:26.123Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:32:22.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:32:22.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_ACTION"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "element",
+          "answer": "no element"
+        },
+        {
+          "name": "action_label",
+          "answer": "Run (Run selected configuration)"
+        },
+        {
+          "name": "place",
+          "answer": "NavBarToolbar"
+        },
+        {
+          "name": "action_class",
+          "answer": "com.intellij.execution.ExecutorRegistryImpl$ExecutorAction"
+        }
+      ]
+    },
+    {
+      "id": 5610434794618880,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:48:24.136Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:48:16.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:48:16.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_CREATED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/ios/DerivedData/Runner/Logs/Build/6BA91681-CB89-4F9E-9372-391B7EFBDC4F.xcactivitylog"
+        },
+        {
+          "name": "file_type",
+          "answer": "UNKNOWN"
+        },
+        {
+          "name": "edit",
+          "answer": "...content elided..."
+        }
+      ]
+    },
+    {
+      "id": 5629893303336960,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-20T07:09:17.990Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-20T00:08:19.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-20T00:08:19.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-191.7479.19"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_OPENED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "true"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/Documents/projects/testpluginflutterapp/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        }
+      ]
+    },
+    {
+      "id": 5633008270311424,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:12:10.830Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:12:02.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:12:02.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_ACTION"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "element",
+          "answer": "no element"
+        },
+        {
+          "name": "action_label",
+          "answer": "Run (Run selected configuration)"
+        },
+        {
+          "name": "place",
+          "answer": "NavBarToolbar"
+        },
+        {
+          "name": "action_class",
+          "answer": "com.intellij.execution.ExecutorRegistryImpl$ExecutorAction"
+        }
+      ]
+    },
+    {
+      "id": 5643145710141440,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:32:26.579Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:32:23.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:32:23.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DIFF"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "project",
+          "answer": "my_test_flutter"
+        },
+        {
+          "name": "project_dir",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter"
+        },
+        {
+          "name": "diff",
+          "answer": "SW5kZXg6IC9Vc2Vycy9ib2JldmFucy9JZGVhUHJvamVjdHMvbXlfdGVzdF9mbHV0dGVyL2xpYi9tYWluLmRhcnQKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQotLS0gL1VzZXJzL2JvYmV2YW5zL0lkZWFQcm9qZWN0cy9teV90ZXN0X2ZsdXR0ZXIvbGliL21haW4uZGFydAkoZGF0ZSAxNTY0MDkzOTQwMDAwKQorKysgL1VzZXJzL2JvYmV2YW5zL0lkZWFQcm9qZWN0cy9teV90ZXN0X2ZsdXR0ZXIvbGliL21haW4uZGFydAkoZGF0ZSAxNTY0MDkzOTQwMDAwKQpAQCAtMTMsNyArMTMsNyBAQAogICBAb3ZlcnJpZGUKICAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICAgcmV0dXJuIG5ldyBNYXRlcmlhbEFwcCgKLSAgICAgIHRpdGxlOiAnRmx1dHRlciBEZW1vIDgnLAorICAgICAgdGl0bGU6ICdGbHV0dGVyIERlbW8gMTAnLAogICAgICAgdGhlbWU6IG5ldyBUaGVtZURhdGEoCiAgICAgICAgIC8vIFRoaXMgaXMgdGhlIHRoZW1lIG9mIHlvdXIgYXBwbGljYXRpb24uCiAgICAgICAgIC8vCg=="
+        },
+        {
+          "name": "diff_file",
+          "answer": "/var/folders/yv/nxr31yrj5v1bzy85dhvd_bk80000gn/T/1564093943489-0/patch2019_07_25_15:32:23-0700"
+        }
+      ]
+    },
+    {
+      "id": 5648095106301952,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-19T17:00:48.877Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-19T09:56:44.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-19T09:56:44.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-183.5912.21"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_FOCUSED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "true"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/Documents/projects/testpluginflutterapp/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        }
+      ]
+    },
+    {
+      "id": 5650488720097280,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:14:01.593Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:13:58.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:13:58.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_ACTION"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "element",
+          "answer": "no element"
+        },
+        {
+          "name": "action_label",
+          "answer": "Flutter Hot Reload (Hot reload changes into the running Flutter app)"
+        },
+        {
+          "name": "place",
+          "answer": "NavBarToolbar"
+        },
+        {
+          "name": "action_class",
+          "answer": "io.flutter.actions.ReloadFlutterAppRetarget"
+        }
+      ]
+    },
+    {
+      "id": 5652678683656192,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:40:05.713Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:39:59.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:39:59.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "PROJECT_SNAPSHOT"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "snapshot_file",
+          "answer": "/var/folders/yv/nxr31yrj5v1bzy85dhvd_bk80000gn/T/1564094399093-0/PAL_SNAPSHOT1564094399093.zip"
+        },
+        {
+          "name": "base_snapshot_contents",
+          "answer": "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"
+        }
+      ]
+    },
+    {
+      "id": 5656047347302400,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:32:25.744Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:32:20.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:32:20.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_SAVED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "error_0",
+          "answer": "type=Not Error, sev=INFO, code=slash_for_doc_comments, offset = 84, message=Prefer using /// for doc comments."
+        },
+        {
+          "name": "errors",
+          "answer": "1"
+        }
+      ]
+    },
+    {
+      "id": 5659285123497984,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:07:32.885Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:07:23.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:07:23.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "PROJECT_SNAPSHOT"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "snapshot_file",
+          "answer": "/var/folders/yv/nxr31yrj5v1bzy85dhvd_bk80000gn/T/1564092443655-0/PAL_SNAPSHOT1564092443655.zip"
+        },
+        {
+          "name": "base_snapshot_contents",
+          "answer": "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"
+        }
+      ]
+    },
+    {
+      "id": 5666142307221504,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:09:33.756Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:09:27.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:09:27.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_FOCUSED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        }
+      ]
+    },
+    {
+      "id": 5682102565076992,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:31:55.822Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:31:45.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:31:45.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_STARTED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        }
+      ]
+    },
+    {
+      "id": 5690049462534144,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:12:00.847Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:11:59.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:11:59.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_ACTION"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "element",
+          "answer": "no element"
+        },
+        {
+          "name": "action_label",
+          "answer": "Save All (Save all files and settings)"
+        },
+        {
+          "name": "place",
+          "answer": "MainMenu"
+        },
+        {
+          "name": "action_class",
+          "answer": "com.intellij.ide.actions.SaveAllAction"
+        }
+      ]
+    },
+    {
+      "id": 5691867642986496,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:07:32.190Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:07:23.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:07:23.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "PROJECT_OPENED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "project",
+          "answer": "my_test_flutter"
+        }
+      ]
+    },
+    {
+      "id": 5703793097834496,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-19T17:00:51.277Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-19T09:59:51.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-19T09:59:51.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-183.5912.21"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_ACTION"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "true"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/Documents/projects/testpluginflutterapp/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "element",
+          "answer": "no element"
+        },
+        {
+          "name": "action_label",
+          "answer": "Run (Run selected configuration)"
+        },
+        {
+          "name": "place",
+          "answer": "NavBarToolbar"
+        },
+        {
+          "name": "action_class",
+          "answer": "com.intellij.execution.ExecutorRegistryImpl$ExecutorAction"
+        }
+      ]
+    },
+    {
+      "id": 5705953994866688,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:13:11.708Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:13:05.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:13:05.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_ACTION"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "element",
+          "answer": "no element"
+        },
+        {
+          "name": "action_label",
+          "answer": "Flutter Hot Reload (Hot reload changes into the running Flutter app)"
+        },
+        {
+          "name": "place",
+          "answer": "NavBarToolbar"
+        },
+        {
+          "name": "action_class",
+          "answer": "io.flutter.actions.ReloadFlutterAppRetarget"
+        }
+      ]
+    },
+    {
+      "id": 5715174685671424,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:32:55.314Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:32:48.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:32:48.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_CREATED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/ios/DerivedData/Runner/Logs/Build/2F07C7B6-E617-4682-8C5B-A2526D8F15E9.xcactivitylog"
+        },
+        {
+          "name": "file_type",
+          "answer": "UNKNOWN"
+        },
+        {
+          "name": "edit",
+          "answer": "...content elided..."
+        }
+      ]
+    },
+    {
+      "id": 5719336576090112,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:48:04.151Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:47:55.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:47:55.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_ACTION"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "element",
+          "answer": "no element"
+        },
+        {
+          "name": "action_label",
+          "answer": "Run (Run selected configuration)"
+        },
+        {
+          "name": "place",
+          "answer": "NavBarToolbar"
+        },
+        {
+          "name": "action_class",
+          "answer": "com.intellij.execution.ExecutorRegistryImpl$ExecutorAction"
+        }
+      ]
+    },
+    {
+      "id": 5726091712397312,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-19T17:00:50.844Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-19T09:58:57.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-19T09:58:57.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-183.5912.21"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_ACTION"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "true"
+        },
+        {
+          "name": "element"
+        },
+        {
+          "name": "action_label",
+          "answer": "Install Plugin from Disk... (null)"
+        },
+        {
+          "name": "place",
+          "answer": "unknown"
+        },
+        {
+          "name": "action_class",
+          "answer": "com.intellij.ide.plugins.PluginManagerConfigurableNew$6"
+        }
+      ]
+    },
+    {
+      "id": 5730762866819072,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:07:29.110Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:07:18.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:07:18.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_STARTED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        }
+      ]
+    },
+    {
+      "id": 5730896623173632,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-19T17:00:50.469Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-19T09:58:49.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-19T09:58:49.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-183.5912.21"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_ACTION"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "true"
+        },
+        {
+          "name": "element"
+        },
+        {
+          "name": "action_label",
+          "answer": "null (Manage Repositories, Configure Proxy or Install Plugin from Disk)"
+        },
+        {
+          "name": "place",
+          "answer": "NavBarToolbar"
+        },
+        {
+          "name": "action_class",
+          "answer": "com.intellij.ide.plugins.newui.TabHeaderComponent$3"
+        }
+      ]
+    },
+    {
+      "id": 5732090892517376,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-19T17:00:52.562Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-19T10:00:38.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-19T10:00:38.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-183.5912.21"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_CREATED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "true"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/Documents/projects/testpluginflutterapp/ios/DerivedData/Runner/Logs/Build/46E703E8-7927-4BD6-B45A-DD7F34A31D0B.xcactivitylog"
+        },
+        {
+          "name": "file_type",
+          "answer": "UNKNOWN"
+        },
+        {
+          "name": "edit",
+          "answer": "...content elided..."
+        }
+      ]
+    },
+    {
+      "id": 5732540085698560,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:07:34.894Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:07:24.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:07:24.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_OPENED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        }
+      ]
+    },
+    {
+      "id": 5734043953397760,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:40:07.159Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:40:00.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:40:00.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_OPENED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        }
+      ]
+    },
+    {
+      "id": 5735864155504640,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-19T17:00:51.801Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-19T09:59:52.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-19T09:59:52.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-183.5912.21"
+        },
+        {
+          "name": "type",
+          "answer": "LAUNCH"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "true"
+        },
+        {
+          "name": "project",
+          "answer": "testpluginflutterapp"
+        },
+        {
+          "name": "run_configuration_type",
+          "answer": "Flutter"
+        },
+        {
+          "name": "run_configuration_action",
+          "answer": "Run"
+        },
+        {
+          "name": "run_configuration_name",
+          "answer": "main.dart"
+        },
+        {
+          "name": "device_emulator",
+          "answer": "true"
+        },
+        {
+          "name": "device_platform",
+          "answer": "ios"
+        },
+        {
+          "name": "device_name",
+          "answer": "iPhone Xʀ"
+        }
+      ]
+    },
+    {
+      "id": 5739688370896896,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-19T17:00:45.245Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-19T09:56:38.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-19T09:56:38.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-183.5912.21"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_STARTED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "true"
+        }
+      ]
+    },
+    {
+      "id": 5739766888267776,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-19T17:00:47.662Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-19T09:56:43.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-19T09:56:43.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-183.5912.21"
+        },
+        {
+          "name": "type",
+          "answer": "PROJECT_OPENED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "true"
+        },
+        {
+          "name": "project",
+          "answer": "testpluginflutterapp"
+        }
+      ]
+    },
+    {
+      "id": 5742215464222720,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:31:58.622Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:31:51.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:31:51.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_FOCUSED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        }
+      ]
+    },
+    {
+      "id": 5745887795478528,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:32:25.294Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:32:20.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:32:20.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_ACTION"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "element",
+          "answer": "no element"
+        },
+        {
+          "name": "action_label",
+          "answer": "Save All (Save all files and settings)"
+        },
+        {
+          "name": "place",
+          "answer": "MainMenu"
+        },
+        {
+          "name": "action_class",
+          "answer": "com.intellij.ide.actions.SaveAllAction"
+        }
+      ]
+    },
+    {
+      "id": 5747214269284352,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:32:27.598Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:32:23.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:32:23.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "LAUNCH"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "project",
+          "answer": "my_test_flutter"
+        },
+        {
+          "name": "run_configuration_type",
+          "answer": "Flutter"
+        },
+        {
+          "name": "run_configuration_action",
+          "answer": "Run"
+        },
+        {
+          "name": "run_configuration_name",
+          "answer": "main.dart"
+        },
+        {
+          "name": "device_emulator",
+          "answer": "true"
+        },
+        {
+          "name": "device_platform",
+          "answer": "ios"
+        },
+        {
+          "name": "device_name",
+          "answer": "iPhone Xʀ"
+        }
+      ]
+    },
+    {
+      "id": 5751029072658432,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:09:32.584Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:09:25.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:09:25.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "PROJECT_SNAPSHOT"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "snapshot_file",
+          "answer": "/var/folders/yv/nxr31yrj5v1bzy85dhvd_bk80000gn/T/1564096165805-0/PAL_SNAPSHOT1564096165806.zip"
+        },
+        {
+          "name": "base_snapshot_contents",
+          "answer": "UEsDBAoAAAgAAIONgU4AAAAAAAAAAAAAAAATAAAAbGliL3N1YnNyYy9zdWIuZGFydFBLAwQUAAgICABIqbZOAAAAAAAAAAAAAAAADAAAAGxpYi9hdXguZGFydG2QMU/DMBCF9/yKR5YmIJUOXaACoWZhgKmVOpv4SCwcOzpfSCLU/45NkZBKBz/73r3vDTZd71mw6FX9oRq6f7eDCPFtp6IaZZdasSw2WVZbFQJe531rWIMmIacDdhJzlkI4GN2Q4CsDnvwnMRtN8f1rvw3G6mKbtPJOIo36dJc/CMAkAzs4GpESyjjiotzE3TGLshM2rkFQ8zPNxRmURw/pYN8S0xVy3KTooVVSlEvxL34krlSgSF6o3M70r7IyyuNutcov5E+9ZwDG6P6ljRN0gxXT29i/LtI8lXh4xIRrrOOHHrNvUEsHCJdqFQLmAAAAfAEAAFBLAwQUAAgICAD6fflOAAAAAAAAAAAAAAAADQAAAGxpYi9tYWluLmRhcnSdWG2P2zYS/r6/YmAcYDl1tdkiKHDbJrhNckG2bwiaAEVxOCxoi7bZlUSVpNZRivz3PjMU9WInweG+2DI1HM7LM88MbarGukDLRm3v1V5f78o2BO0uK4VPo8q8UC4sv7swJ3JVdxe0D3dJXrXvk+jF5aNHF/SI4hZVB9raqtL4vvoG65cXD9YUVClTZyt6+oxcW980TVbrI/3c8dNqBSUG8m3del28Mros6CldPcbytlTeRznS74OuC09vA4wttfe/mWKvA/11QXR5Se8OxtMxLuEpHDQ5awPZHXW2daSapjRbFYytc+z4l33QzplC47lXtGlNWWTP+fOFrQPOgyvyvZJDiJwOratJbO8jxh7IO6JgQqmvafkqBole6srS1dVynd4fdIX3vPsdP75UQaW9owu97SL8OePTjtlm13Fsa1Pvz/YgLuFAiz57LLbI6XfbLsuSvJbDpqqmOw/Kk6JN2ULK2nKjXM7W12vRadtAf7YmBD6VzcbWNQXXTdVtD6reJ4HGmUq57u1Rhe2BNrq0RyimF7a0zud7p3VNqi5YtiZTP9j7mWmLA1LqsEsVC8oaBxjQwi0gKdqRL29LTceDdprDQE7Vc8fXU3XWUdTxa1vTM0qZe41DfpVDWPEtMFCW5odVTr/YYLYcLxVOg7a1bc17C1PUS7bRM6RQP+zeB+3sdylAQ2yR6lrc8QG1pIsxtbMoXafocBaS+av0cLAJVD93r/H8BvWafRKKX9NLVahlvxNVR/Tx4uNYZGn3vNJ2bTkptMkZf/2oO7rXHfIN3OZy5McVXZNvG+0yvLnm11zdnytQtp0aPvJTQKdbEfS9FWuqtGJ4R3WSAxN6gIqpZDd/6G2grNA7U+siwmsVRbmUQUKedkwwPi6q3Q4bosIDkAh9pbX3Pp/aHOPTmww1O7NvXczgDgDiVbFRDD7YqFzTg0K6PGUCTeOjwq3yOtY3h2uFRNsHkBBM7WJ5KMfUmTaN8syAMXgrro+ojfky7RT2QohQlAWHk9feRrNeRY+hUyWu8+0muoXzoi5VHlXnQdTuHkoXCKAqFxIHeYQuJzXMdktKpwx6N+IiZmLrNL7kOdI+A/RUKgM2BvydqZih8Pvx7TMBIjeMu1RzT+mxmMSLbNWLYf2fjx9/y0CXJnRnatjFvakXyBKxo1ajRcPKJP0KLIkaTjLEbBBTnMpr51Slj9bdR1R5y2ngaAGcozbhQV1Qyq1oA48eDJhwq5BMzwDEUU6Dqc6zKnAe9Xk7EBFYxzel6qCmxu5dyWXA621T4JCiByMQuqOjTpaMqoZIJlJnp9mBITCrdaTkM6OOtsUP5rGNnviK/ThW7VFyayF0WAshiUrcglLXyrG7B34cGluy5aunTySpUWM4ONQno+jf77e64erLFjyTMKkHAx4BGK1bCK2B2Hp6+387fUp+7ySeYk40dKHe+LwBDz1GdLEWPgDHYAxClwAxFbbWSV9fp2cgTGeoDQzNLyadXYz4FMqY8zbcKS0CUZkPiDTCWKl7Hc2UIWCaJZ/07ZQP6wE53CAZMX+0HEcdd6i6i2kSkVpr1KDAiNfAe2itSRskeEJ4EGkLzwsDNmsRjK7H2BANz5wUCcznp8PU2y2IGMSZpiHg4blysavdyPNsTnrNzR0wDuzwQLWIj63k56SV9R1BXDkiapGXmDSnCnuCzachi6hFUfY1ye2871Abhi3z4Niw+4Yrsx1glEVPY1NcnfXsjS26KPxCCw9NjYlLjCpFKGmuxl4b9xf2md94xLzkSo4pK6ix3nBVMIdM1fWTUWWKotSpMcQ2M5ovanqLbNlW9WhRtEkWxaYS4Pm8WaXxMnKLQhdnubkq5RwDQwi0IpQTJioGTE7PO0LjVm0JhCLmHrhmZ7wud5yAneF+7+fahnMO1pkP3OKhKqYO/YpPsagULkV+w99Qceb+bJYWvbcyedKiQFHsIY/OMs6bzZfnzbmm+fDJEyccYkwu3tk9p/ClHPEmHjFgOBU9D91zhUeUGY8qk8E04jPWwtGA/5kphIy0Qm/p8/QFd/v8Mq88KGds63kyaTg5MYZMj86WaUia5eYsxb3QFJF+yFQ+lC/XFt8Lb94bf1OafS23xmBPMhzLQaKdkj2iJg7VrIUU1JDkoR/VktQJ/lhso6Xf9n7LFDSIUyZnOcvTEQvHdrXRp04mwK2mkT1z6BpXxZOlXOb99WRX8uyavo8t6tl/Jm9p5JXZKvVjPzqVK7JV7lX3WncYYb6iJW53zMwaTRcXLG6wRd+7Q8DgWlmnI30vIT2ZmfJg46QX1Uir89fL9ezg1fp/sm75j9TLT/Zj4Aod86Xcg3O7y1L7zfkzrvYjzdUXjv7v+OOcZHe4v3HPutkyCJ+L35HiXn3izWi7rd9wmWvw4VmvHs/jugymwR3rNslMnJzw6S1cy/jD56ooJmYOM0ZwysiwxX+cKGnjQF4b7Neo4ErFy3WNe6eTkp719Xx6l8NHP6UDQb+AArKTPy4Wb25+QqZA0QDEAvl9Mkl3rwMT+d9QSwcIm2re3WIHAAAmEgAAUEsDBBQACAgIAE+gtk4AAAAAAAAAAAAAAAAQAAAAbGliL25ld2ZpbGUuZGFydEvOSSwuVnDLz1eo5uJSUAguKcrMS1dISizS0ASKKABBUWpJaVGeghJQTMkaKFILUpeZVwJUVJVYlIiuzsQIoqiWCwBQSwcINDv5lEMAAABbAAAAUEsDBBQACAgIADaSqU4AAAAAAAAAAAAAAAAVAAAAdGVzdC93aWRnZXRfdGVzdC5kYXJ0jVPBbtswDL3nK3izjQV2dtyCHboBBXrodgk27FSwEm0LtSVBkpMYQ/99pO00CYqiBQIFkd7je3xkqgp2rYnAH4RHjEbBbTekRAEORjeUIFFM5apinANPoXahB7RgLGNQJeMsI1PL9IVgLIxuCBNxDUMkSC3Bn+lxx3dcekimM2nkB0wnPZHwwe2NpljCrQtAR+x9R2spB4o1I1kNCT3ra4gquK6DhisOQSh/FxR20U2yV5LJiUBtmKla0+nFbRS74u/UbSAWDIQsREf2L1J7CqZe3Ap2j91AEVx9YrFvjiYZiiKCgUC5EEhxcCvTexcSZB7VEzb0tZ7brXrk02BXagwp276Fe5AYq8sfJ8IrRj9O7w9nBWNfwHtnNMhNXsC/Fcj8YLAck4Zv8GWz2fKdsOfQYp79cIOMmIEqUE+Wo4q9e6IJla0hv453+ioA42jVJADAUXwfJGrZBvTz2FIwTcMEhDpgT+WExAOatNQo/dD7uXZu6QD34433eVFwD0vR3xfjkNJqcRoT98p7nGAzl6Wj5xnkMvRSpplnm6xYT0sQf1maRYrtG9jPL9ifLrXGNhcWdryEsgnZpwyM4r/Ax1rj3Z0VHsc7ZuVyxBK1LhYXr4LIP9B3i/E8JdLv937u573Or1N65vN59R9QSwcI+Uyev+sBAAAzBAAAUEsDBBQACAgIACh+FU0AAAAAAAAAAAAAAAAMAAAAcHVic3BlYy55YW1slVRNb9swDL3nVxDpNbaz0wDfuo8CPRQb1u46Q5NpW40sGZIcL/9+pGSnSZtlG5BP8ZF85HuWET2W0B+qgD5UjR5DQLeq0UunhqCsKeEWDE5wl0IwOPuMMuTwYB3CCTBfUdqApkYjFfpyBTCX458Avt6Vy8mKTm7gqUNorNZ2UqYFUdceAh19HAd0QRkL99IaTxATIFg42NGBGAatpEgNuch3jzCp0J2npkyphed8B+rLI/hw0AiKI5wqF2wVj0r4sc3f5VueYl/9YZK4pUvjrG7gjtsYatZHdkAvptSiQackfBIuwMAftqGAIl5K4wY8IuOowMsqBtGSKF0Igy+LYpqmvKZELUybW9cWwVrti2H8yW8/oOT258v0JBGToDYMUA0xoBXOIuarozIXhNDKIKDxo0MWRIQ4x4MgvBL6VBTlY7oyUo811kmH1zLRiDaVoQhIYWD0ceQkBWXHInzQn/eI8rFUlOCzJZiR51RLvgxuxJm/ZfcAoTH4S1bZpLhZIPN6NjTrDqMaZSyUwuk3ZKB6EsIXoqptqH6OzuXPA7YXo53oUzBGb02KpoJxaIcNPT3EzdJ2ySo9Pz60YUtKEJXsKNN6L2hME/w6miPWW6wwy5YrWySqmTB1NhO5OakmJuEwT2TYmDUGobSnhq1w9fy4xa+0kMbZnmwnd0z61Pz/y4ELZXMhf6aOHH2gJmycaxrNgMXAHTrczC5Lj816JrBeMDl8FrIjxwZ3OKK08gF8Z0ddQyf2pEQssm5Er/RhDTs8vFwb0cwpAoYuRKJimMo6cjkBpyKxdqv2vD9OTyJziqW/7ngpWpcun6VFzlLECvhL9IPGZLTYZPYc2SrxKOFRdnRfufkczmEQobFxmSLFjM++YTtq4fIQmr+D74Og/b/CQroqS1Ax+obZkxPP5Oivzv4zuZRCGddpHWHVB6vrN7QmVG1H4PfbLZ9fcXcy0RVXx1y+ey/YOjk1S5ReOfo3UEsHCJOy6tviAgAAMAcAAFBLAQIKAAoAAAgAAIONgU4AAAAAAAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAAABsaWIvc3Vic3JjL3N1Yi5kYXJ0UEsBAhQAFAAICAgASKm2TpdqFQLmAAAAfAEAAAwAAAAAAAAAAAAAAAAAMQAAAGxpYi9hdXguZGFydFBLAQIUABQACAgIAPp9+U6bat7dYgcAACYSAAANAAAAAAAAAAAAAAAAAFEBAABsaWIvbWFpbi5kYXJ0UEsBAhQAFAAICAgAT6C2TjQ7+ZRDAAAAWwAAABAAAAAAAAAAAAAAAAAA7ggAAGxpYi9uZXdmaWxlLmRhcnRQSwECFAAUAAgICAA2kqlO+Uyev+sBAAAzBAAAFQAAAAAAAAAAAAAAAABvCQAAdGVzdC93aWRnZXRfdGVzdC5kYXJ0UEsBAhQAFAAICAgAKH4VTZOy6tviAgAAMAcAAAwAAAAAAAAAAAAAAAAAnQsAAHB1YnNwZWMueWFtbFBLBQYAAAAABgAGAHEBAAC5DgAAAAA="
+        }
+      ]
+    },
+    {
+      "id": 5752717422624768,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-19T17:01:29.165Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-19T10:01:26.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-19T10:01:26.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-183.5912.21"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_SAVED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "true"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/Documents/projects/testpluginflutterapp/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        }
+      ]
+    },
+    {
+      "id": 5755112244379648,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:31:57.468Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:31:50.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:31:50.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "PROJECT_SNAPSHOT"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "snapshot_file",
+          "answer": "/var/folders/yv/nxr31yrj5v1bzy85dhvd_bk80000gn/T/1564093910111-0/PAL_SNAPSHOT1564093910111.zip"
+        },
+        {
+          "name": "base_snapshot_contents",
+          "answer": "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"
+        }
+      ]
+    },
+    {
+      "id": 5763452290727936,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-19T17:01:38.594Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-19T10:01:28.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-19T10:01:28.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-183.5912.21"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_ACTION"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "true"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/Documents/projects/testpluginflutterapp/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "element",
+          "answer": "no element"
+        },
+        {
+          "name": "action_label",
+          "answer": "Flutter Hot Reload (Hot reload changes into the running Flutter app)"
+        },
+        {
+          "name": "place",
+          "answer": "NavBarToolbar"
+        },
+        {
+          "name": "action_class",
+          "answer": "io.flutter.actions.ReloadFlutterAppRetarget"
+        }
+      ]
+    },
+    {
+      "id": 5765705579888640,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:09:32.029Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:09:25.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:09:25.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "PROJECT_OPENED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "project",
+          "answer": "my_test_flutter"
+        }
+      ]
+    },
+    {
+      "id": 5767146407198720,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:07:34.303Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:07:24.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:07:24.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_FOCUSED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        }
+      ]
+    },
+    {
+      "id": 5794110547427328,
+      "experimentId": 1,
+      "who": "90",
+      "when": "2019-07-25T19:03:43.823Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T12:03:37.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T12:03:37.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "PROJECT_OPENED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "project",
+          "answer": "my_test_flutter"
+        }
+      ]
+    },
+    {
+      "id": 5855912174026752,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:09:34.302Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:09:27.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:09:27.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_OPENED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        }
+      ]
+    },
+    {
+      "id": 5973094518226944,
+      "experimentId": 1,
+      "who": "90",
+      "when": "2019-07-25T19:03:43.315Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T12:03:33.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T12:03:33.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_STARTED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        }
+      ]
+    },
+    {
+      "id": 6043638684975104,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:31:56.777Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:31:50.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:31:50.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "PROJECT_OPENED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "project",
+          "answer": "my_test_flutter"
+        }
+      ]
+    },
+    {
+      "id": 6114080108052480,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:47:54.203Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:47:53.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:47:53.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "IDE_ACTION"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "element",
+          "answer": "no element"
+        },
+        {
+          "name": "action_label",
+          "answer": "Save All (Save all files and settings)"
+        },
+        {
+          "name": "place",
+          "answer": "MainMenu"
+        },
+        {
+          "name": "action_class",
+          "answer": "com.intellij.ide.actions.SaveAllAction"
+        }
+      ]
+    },
+    {
+      "id": 6422926374469632,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:48:05.469Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:47:56.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:47:56.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "LAUNCH"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "project",
+          "answer": "my_test_flutter"
+        },
+        {
+          "name": "run_configuration_type",
+          "answer": "Flutter"
+        },
+        {
+          "name": "run_configuration_action",
+          "answer": "Run"
+        },
+        {
+          "name": "run_configuration_name",
+          "answer": "main.dart"
+        },
+        {
+          "name": "device_emulator",
+          "answer": "true"
+        },
+        {
+          "name": "device_platform",
+          "answer": "ios"
+        },
+        {
+          "name": "device_name",
+          "answer": "iPhone Xʀ"
+        }
+      ]
+    },
+    {
+      "id": 6473397072035840,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:12:30.820Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:12:25.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:12:25.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_CREATED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/ios/DerivedData/Runner/Logs/Build/4C9F8572-F814-4CA0-A4ED-1D28CC003946.xcactivitylog"
+        },
+        {
+          "name": "file_type",
+          "answer": "UNKNOWN"
+        },
+        {
+          "name": "edit",
+          "answer": "...content elided..."
+        }
+      ]
+    },
+    {
+      "id": 6504394731814912,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-19T17:00:49.437Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-19T09:56:44.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-19T09:56:44.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-183.5912.21"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_OPENED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "true"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/Documents/projects/testpluginflutterapp/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        }
+      ]
+    },
+    {
+      "id": 6528479490736128,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:13:11.331Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:13:02.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:13:02.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_SAVED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        },
+        {
+          "name": "error_0",
+          "answer": "type=Not Error, sev=INFO, code=slash_for_doc_comments, offset = 84, message=Prefer using /// for doc comments."
+        },
+        {
+          "name": "errors",
+          "answer": "1"
+        }
+      ]
+    },
+    {
+      "id": 6536292573118464,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T22:40:05.000Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T15:39:59.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T15:39:59.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "PROJECT_OPENED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "project",
+          "answer": "my_test_flutter"
+        }
+      ]
+    },
+    {
+      "id": 6638535477559296,
+      "experimentId": 1,
+      "who": "90",
+      "when": "2019-07-25T19:03:44.848Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T12:03:39.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T12:03:39.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_OPENED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        }
+      ]
+    },
+    {
+      "id": 6692568389124096,
+      "experimentId": 1,
+      "who": "69",
+      "when": "2019-06-20T07:09:17.506Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-06-20T00:08:19.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-06-20T00:08:19.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-191.7479.19"
+        },
+        {
+          "name": "type",
+          "answer": "DOCUMENT_FOCUSED"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "true"
+        },
+        {
+          "name": "file",
+          "answer": "/Users/username/Documents/projects/testpluginflutterapp/lib/main.dart"
+        },
+        {
+          "name": "file_type",
+          "answer": "Dart"
+        }
+      ]
+    },
+    {
+      "id": 6717702504185856,
+      "experimentId": 1,
+      "who": "91",
+      "when": "2019-07-25T23:13:12.125Z",
+      "appId": "Unknown",
+      "pacoVersion": "1",
+      "experimentName": "PAL Test 2",
+      "responseTime": "2019-07-25T16:13:05.000-07:00",
+      "experimentVersion": 19,
+      "experimentGroupName": "DevLog",
+      "actionTriggerId": 0,
+      "actionTriggerSpecId": 0,
+      "actionId": 0,
+      "joined": false,
+      "sortDate": "2019-07-25T16:13:05.000-07:00",
+      "missedSignal": false,
+      "emptyResponse": false,
+      "responses": [
+        {
+          "name": "apps_used",
+          "answer": "IntelliJ IDEA IC-173.4710.11"
+        },
+        {
+          "name": "type",
+          "answer": "DIFF"
+        },
+        {
+          "name": "participantId",
+          "answer": "95"
+        },
+        {
+          "name": "flutterSetting_ReloadOnSave",
+          "answer": "false"
+        },
+        {
+          "name": "project",
+          "answer": "my_test_flutter"
+        },
+        {
+          "name": "project_dir",
+          "answer": "/Users/username/IdeaProjects/my_test_flutter"
+        },
+        {
+          "name": "diff",
+          "answer": "SW5kZXg6IC9Vc2Vycy9ib2JldmFucy9JZGVhUHJvamVjdHMvbXlfdGVzdF9mbHV0dGVyL2xpYi9tYWluLmRhcnQKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQotLS0gL1VzZXJzL2JvYmV2YW5zL0lkZWFQcm9qZWN0cy9teV90ZXN0X2ZsdXR0ZXIvbGliL21haW4uZGFydAkoZGF0ZSAxNTY0MDk2MzgyMDAwKQorKysgL1VzZXJzL2JvYmV2YW5zL0lkZWFQcm9qZWN0cy9teV90ZXN0X2ZsdXR0ZXIvbGliL21haW4uZGFydAkoZGF0ZSAxNTY0MDk2MzgyMDAwKQpAQCAtMTMsNyArMTMsNyBAQAogICBAb3ZlcnJpZGUKICAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICAgcmV0dXJuIG5ldyBNYXRlcmlhbEFwcCgKLSAgICAgIHRpdGxlOiAnRmx1dHRlciBEZW1vIDExJywKKyAgICAgIHRpdGxlOiAnRmx1dHRlciBEZW1vIDEzJywKICAgICAgIHRoZW1lOiBuZXcgVGhlbWVEYXRhKAogICAgICAgICAvLyBUaGlzIGlzIHRoZSB0aGVtZSBvZiB5b3VyIGFwcGxpY2F0aW9uLgogICAgICAgICAvLwo="
+        },
+        {
+          "name": "diff_file",
+          "answer": "/var/folders/yv/nxr31yrj5v1bzy85dhvd_bk80000gn/T/1564096385429-0/patch2019_07_25_16:13:05-0700.patch"
+        }
+      ]
+    }
+  ]
+}
